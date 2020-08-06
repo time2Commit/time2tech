@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Time2Tech</title>
+    
+    
+    
+    <link>https://Time2Tech.io/</link>
+    <description>Recent content on Time2Tech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Aug 2020 16:41:39 +0200</lastBuildDate>
+    
+	<atom:link href="https://Time2Tech.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Showcase</title>
+      <link>https://Time2Tech.io/showcase/</link>
+      <pubDate>Mon, 03 Aug 2020 16:56:12 +0200</pubDate>
+      
+      <guid>https://Time2Tech.io/showcase/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://Time2Tech.io/about/</link>
+      <pubDate>Mon, 03 Aug 2020 16:55:02 +0200</pubDate>
+      
+      <guid>https://Time2Tech.io/about/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Site is Alive</title>
+      <link>https://Time2Tech.io/posts/site-alive/</link>
+      <pubDate>Mon, 03 Aug 2020 16:41:39 +0200</pubDate>
+      
+      <guid>https://Time2Tech.io/posts/site-alive/</guid>
+      <description>
+        
+          &lt;img src=&#34;https://Time2Tech.io/uploads/tech-setup.jpg&#34;/&gt;
+          
+        
+        
+        
+          Just a test
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Archive</title>
+      <link>https://Time2Tech.io/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Time2Tech.io/archive/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
