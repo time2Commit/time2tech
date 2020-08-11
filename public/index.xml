@@ -5,30 +5,29 @@
     
     
     
-    <link>https://Time2Tech.io/</link>
+    <link>/</link>
     <description>Recent content on Time2Tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 03 Aug 2020 16:41:39 +0200</lastBuildDate>
     
-	<atom:link href="https://Time2Tech.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Showcase</title>
-      <link>https://Time2Tech.io/showcase/</link>
-      <pubDate>Mon, 03 Aug 2020 16:56:12 +0200</pubDate>
+      <title>Site is Alive</title>
+      <link>/posts/site-alive/</link>
+      <pubDate>Mon, 03 Aug 2020 16:41:39 +0200</pubDate>
       
-      <guid>https://Time2Tech.io/showcase/</guid>
+      <guid>/posts/site-alive/</guid>
       <description>
         
-          
-          
+          &lt;img src=&#34;/uploads/tech-setup.jpg&#34;/&gt;
           
         
         
         
-          
+          Just for the hello to the world
           
         
         </description>
@@ -36,10 +35,10 @@
     
     <item>
       <title>About</title>
-      <link>https://Time2Tech.io/about/</link>
-      <pubDate>Mon, 03 Aug 2020 16:55:02 +0200</pubDate>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://Time2Tech.io/about/</guid>
+      <guid>/about/</guid>
       <description>
         
           
@@ -48,26 +47,9 @@
         
         
         
-          
-          
-        
-        </description>
-    </item>
-    
-    <item>
-      <title>Site is Alive</title>
-      <link>https://Time2Tech.io/posts/site-alive/</link>
-      <pubDate>Mon, 03 Aug 2020 16:41:39 +0200</pubDate>
-      
-      <guid>https://Time2Tech.io/posts/site-alive/</guid>
-      <description>
-        
-          &lt;img src=&#34;https://Time2Tech.io/uploads/tech-setup.jpg&#34;/&gt;
-          
-        
-        
-        
-          Just a test
+          Me My name is Alessio and I built this site from scratches. More or less. I was bored of using the usual CMS so I said &amp;ldquo;Hey, why not try something new?&amp;quot;
+That&amp;rsquo;s why the static site you are on is created with Hugo, a very well-made framework for making static websites.
+This is also the reason why the site is hosted on Github, with negligible maintenance costs and infinite possibilities.
           
         
         </description>
@@ -75,10 +57,30 @@
     
     <item>
       <title>Archive</title>
-      <link>https://Time2Tech.io/archive/</link>
+      <link>/archive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://Time2Tech.io/archive/</guid>
+      <guid>/archive/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Showcase</title>
+      <link>/showcase/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/showcase/</guid>
       <description>
         
           

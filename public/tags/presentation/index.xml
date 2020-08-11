@@ -1,34 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Time2Tech</title>
+    <title>presentation on Time2Tech</title>
     
     
     
-    <link>/categories/</link>
-    <description>Recent content in Categories on Time2Tech</description>
+    <link>/tags/presentation/</link>
+    <description>Recent content in presentation on Time2Tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 03 Aug 2020 16:41:39 +0200</lastBuildDate>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/presentation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>myself</title>
-      <link>/categories/myself/</link>
+      <title>Site is Alive</title>
+      <link>/posts/site-alive/</link>
       <pubDate>Mon, 03 Aug 2020 16:41:39 +0200</pubDate>
       
-      <guid>/categories/myself/</guid>
+      <guid>/posts/site-alive/</guid>
       <description>
         
-          
-          
+          &lt;img src=&#34;/uploads/tech-setup.jpg&#34;/&gt;
           
         
         
         
-          
+          Just for the hello to the world
           
         
         </description>

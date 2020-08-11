@@ -4,6 +4,11 @@ date: 2020-08-03T16:41:39+02:00
 author: "time2tech"
 cover: "uploads/tech-setup.jpg"
 description: "Just for the hello to the world"
+categories:
+- myself
+tags:
+- presentation
+- first post
 ---
 
 ### What i can say? Is my fault.

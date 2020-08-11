@@ -3,40 +3,55 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://Time2Tech.io/showcase/</loc>
-    <lastmod>2020-08-03T16:56:12+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://Time2Tech.io/about/</loc>
-    <lastmod>2020-08-03T16:55:02+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://Time2Tech.io/posts/</loc>
+    <loc>/categories/</loc>
     <lastmod>2020-08-03T16:41:39+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Time2Tech.io/posts/site-alive/</loc>
+    <loc>/tags/first-post/</loc>
     <lastmod>2020-08-03T16:41:39+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Time2Tech.io/</loc>
+    <loc>/categories/myself/</loc>
     <lastmod>2020-08-03T16:41:39+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Time2Tech.io/archive/</loc>
+    <loc>/posts/</loc>
+    <lastmod>2020-08-03T16:41:39+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Time2Tech.io/categories/</loc>
+    <loc>/tags/presentation/</loc>
+    <lastmod>2020-08-03T16:41:39+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Time2Tech.io/tags/</loc>
+    <loc>/posts/site-alive/</loc>
+    <lastmod>2020-08-03T16:41:39+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-08-03T16:41:39+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-08-03T16:41:39+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+  </url>
+  
+  <url>
+    <loc>/archive/</loc>
+  </url>
+  
+  <url>
+    <loc>/showcase/</loc>
   </url>
   
 </urlset>

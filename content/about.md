@@ -14,7 +14,7 @@ cover: ""
 I was bored of using the usual **CMS** so I said *"Hey, why not try something new?"*
 
 That's why the static site you are on is created with [**Hugo**](https://gohugo.io/ "Hugo Website"), a very well-made framework for making static websites.  
-This is also the reason why the site is hosted on [**Github Pages**](https://pages.github.com/ "Github Pages Website"), with negligible maintenance costs and infinite possibilities.  
+This is also the reason why the site is hosted on [**Github**](https://github.com/), with negligible maintenance costs and infinite possibilities.  
 #### And (now i think you have started to understand that this don't talk about the site but ***precisely*** about me) also why the site is in English while i'm Italian.
 
 Because I don't really like what I know works easily, I like to experiment where it is more difficult to make things work.  

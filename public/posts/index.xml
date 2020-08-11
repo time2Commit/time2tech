@@ -5,29 +5,29 @@
     
     
     
-    <link>https://Time2Tech.io/posts/</link>
+    <link>/posts/</link>
     <description>Recent content in Posts on Time2Tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 03 Aug 2020 16:41:39 +0200</lastBuildDate>
     
-	<atom:link href="https://Time2Tech.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Site is Alive</title>
-      <link>https://Time2Tech.io/posts/site-alive/</link>
+      <link>/posts/site-alive/</link>
       <pubDate>Mon, 03 Aug 2020 16:41:39 +0200</pubDate>
       
-      <guid>https://Time2Tech.io/posts/site-alive/</guid>
+      <guid>/posts/site-alive/</guid>
       <description>
         
-          &lt;img src=&#34;https://Time2Tech.io/uploads/tech-setup.jpg&#34;/&gt;
+          &lt;img src=&#34;/uploads/tech-setup.jpg&#34;/&gt;
           
         
         
         
-          Just a test
+          Just for the hello to the world
           
         
         </description>
