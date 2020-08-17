@@ -12,7 +12,7 @@ paginate = 5
   defaultTheme = "dark"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 3
+  showMenuItems = 4
 
   # Show reading time in minutes for posts
   showReadingTime = false
@@ -64,3 +64,7 @@ paginate = 5
         identifier = "archive"
         name = "Archive"
         url = "/archive"
+      [[languages.en.menu.main]]
+        identifier = "categories"
+        name = "Categories"
+        url = "/categories"
