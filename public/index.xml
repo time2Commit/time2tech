@@ -89,7 +89,7 @@ This is also the reason why the site is hosted on Github, with negligible mainte
         
         
         
-          
+          Powered by Curator.io(function(){var i, e, d = document, s = &#34;script&#34;;i = d.createElement(&#34;script&#34;);i.async = 1;i.src = &#34;https://cdn.curator.io/published/d9355abb-c9db-42af-ab11-5c895b92d752.js&#34;;e = d.getElementsByTagName(s)[0];e.parentNode.insertBefore(i, e);})();
           
         
         </description>
